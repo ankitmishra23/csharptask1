@@ -1,0 +1,13 @@
+D:\chubb\training\c#.net\task1\bin\Debug\netcoreapp3.1\task1.exe
+D:\chubb\training\c#.net\task1\bin\Debug\netcoreapp3.1\task1.deps.json
+D:\chubb\training\c#.net\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+D:\chubb\training\c#.net\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+D:\chubb\training\c#.net\task1\bin\Debug\netcoreapp3.1\task1.dll
+D:\chubb\training\c#.net\task1\bin\Debug\netcoreapp3.1\task1.pdb
+D:\chubb\training\c#.net\task1\obj\Debug\netcoreapp3.1\task1.csprojAssemblyReference.cache
+D:\chubb\training\c#.net\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+D:\chubb\training\c#.net\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+D:\chubb\training\c#.net\task1\obj\Debug\netcoreapp3.1\task1.csproj.CoreCompileInputs.cache
+D:\chubb\training\c#.net\task1\obj\Debug\netcoreapp3.1\task1.dll
+D:\chubb\training\c#.net\task1\obj\Debug\netcoreapp3.1\task1.pdb
+D:\chubb\training\c#.net\task1\obj\Debug\netcoreapp3.1\task1.genruntimeconfig.cache
